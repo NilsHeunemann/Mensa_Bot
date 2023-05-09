@@ -35,7 +35,7 @@ logging.basicConfig(
 # Setting up Database
 db = SqliteDatabase(db_path)
 
-# Users who recive menu
+# Users who receive menu
 class Menu(Model):
     chat_id = IntegerField(unique=True)
 
@@ -43,7 +43,7 @@ class Menu(Model):
         database = db
 
 
-# Users who recive Fry Alert
+# Users who receive Fry Alert
 class Fries(Model):
     chat_id = IntegerField(unique=True)
 
@@ -51,7 +51,7 @@ class Fries(Model):
         database = db
 
 
-# Users who recive vegitarian menu
+# Users who receive vegetarian menu
 class Veggi(Model):
     chat_id = IntegerField(unique=True)
 
@@ -181,18 +181,39 @@ async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if created:
         await context.bot.send_message(
             chat_id=update.effective_chat.id,
-            text="Du erhälst ab jetzt das vegitarische Menu",
+            text="Du erhälst ab jetzt das vegetarische Menü",
         )
         logging.info(f"{update.effective_chat.id} is now registered for Veggi")
 
     else:
         await context.bot.send_message(
             chat_id=update.effective_chat.id,
-            text="Du erhälst bereits das vegitarische Menü",
+            text="Du erhälst bereits das vegetarische Menü",
         )
         logging.info(f"{update.effective_chat.id} was already registered for Veggi")
 
 
+## Register new User for Spinach Gratin warning
+
+#async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
+#    new_client, created = Veggi.get_or_create(chat_id=update.effective_chat.id)
+#    logging.info(f"{update.effective_chat.id} tried to register for Spinach_Gratin")
+
+#    if created:
+#        await context.bot.send_message(
+#            chat_id=update.effective_chat.id,
+#            text="Du erhälst ab jetzt eine Warnung vor Farfalle Spinat Gratin",
+#        )
+#        logging.info(f"{update.effective_chat.id} is now registered for Veggi")
+
+#    else:
+#        await context.bot.send_message(
+#            chat_id=update.effective_chat.id,
+#            text="Du erhälst bereits eine Warnung vor Farfalle Spinat Gratin",
+#        )
+#        logging.info(f"{update.effective_chat.id} was already registered for Spinach_Gratin")
+        
+        
 # Remove User from Menu
 async def menu_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
@@ -237,17 +258,35 @@ async def veggi_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
         await context.bot.send_message(
             chat_id=update.effective_chat.id,
-            text="Du erhälst nun das vegitarische Menü nicht mehr",
+            text="Du erhälst nun das vegetarische Menü nicht mehr",
         )
         logging.info(f"{update.effective_chat.id} was deleted from Veggi")
     except:
         await context.bot.send_message(
             chat_id=update.effective_chat.id,
-            text="Du hast das vegitarische Menü noch nie erhalten",
+            text="Du hast das vegetarische Menü noch nie erhalten",
         )
         logging.info(f"{update.effective_chat.id} was not signed up for Veggi")
 
+# Remove User From Spinach Gratin Warning
 
+#async def veggi_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
+#    try:
+#        client = Veggi.get(chat_id=update.effective_chat.id)
+#        client.delete_instance()
+#
+#        await context.bot.send_message(
+#            chat_id=update.effective_chat.id,
+#            text="Du erhälst nun Warnungen über Farfalle Spinat Gratin nicht mehr",
+#        )
+#        logging.info(f"{update.effective_chat.id} was deleted from Spinach_Gratin")
+#    except:
+#        await context.bot.send_message(
+#            chat_id=update.effective_chat.id,
+#            text="Du hast die Warnungen über Farfalle Spinat Gratin noch nie erhalten",
+#        )
+#        logging.info(f"{update.effective_chat.id} was not signed up for Spinach_Gratin")
+        
 # Functions to send Messages
 
 
@@ -293,7 +332,7 @@ async def fries_message(context: ContextTypes.DEFAULT_TYPE):
 
     if check_fries(side):
         logging.info("Start sending fries alert")
-        message = "Es ist alles gut, die Welt ist in Ordnung, es gibt Pommes"
+        message = "Es ist alles gut, die Welt ist in Ordnung, es gibt Pommes" # Is it possible to add a green check mark as an additional indicator? \N{green check mark}
         msg_gen = send_msg(context, Fries, message)
         context.application.create_task(asyncio.gather(*msg_gen))
         logging.info("Finished sending fries alert")
