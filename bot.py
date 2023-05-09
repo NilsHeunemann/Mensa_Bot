@@ -57,7 +57,13 @@ class Veggi(Model):
 
     class Meta:
         database = db
+        
+# Users who receive Spinach Gratin warning
+class Spinach_Gratin(Model):
+    chat_id = IntegerField(unique=True)
 
+    class Meta:
+        database = db
 
 # Functions to get Menu plan from website
 
@@ -195,23 +201,23 @@ async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 ## Register new User for Spinach Gratin warning
 
-#async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
-#    new_client, created = Veggi.get_or_create(chat_id=update.effective_chat.id)
-#    logging.info(f"{update.effective_chat.id} tried to register for Spinach_Gratin")
+async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    new_client, created = Spinach_Gratin.get_or_create(chat_id=update.effective_chat.id)
+    logging.info(f"{update.effective_chat.id} tried to register for Spinach_Gratin")
 
-#    if created:
-#        await context.bot.send_message(
-#            chat_id=update.effective_chat.id,
-#            text="Du erhälst ab jetzt eine Warnung vor Farfalle Spinat Gratin",
-#        )
-#        logging.info(f"{update.effective_chat.id} is now registered for Veggi")
+    if created:
+        await context.bot.send_message(
+            chat_id=update.effective_chat.id,
+            text="Du erhälst ab jetzt eine Warnung vor Farfalle Spinat Gratin",
+        )
+        logging.info(f"{update.effective_chat.id} is now registered for Veggi")
 
-#    else:
-#        await context.bot.send_message(
-#            chat_id=update.effective_chat.id,
-#            text="Du erhälst bereits eine Warnung vor Farfalle Spinat Gratin",
-#        )
-#        logging.info(f"{update.effective_chat.id} was already registered for Spinach_Gratin")
+    else:
+        await context.bot.send_message(
+            chat_id=update.effective_chat.id,
+            text="Du erhälst bereits eine Warnung vor Farfalle Spinat Gratin",
+        )
+        logging.info(f"{update.effective_chat.id} was already registered for Spinach_Gratin")
         
         
 # Remove User from Menu
@@ -270,22 +276,22 @@ async def veggi_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Remove User From Spinach Gratin Warning
 
-#async def veggi_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
-#    try:
-#        client = Veggi.get(chat_id=update.effective_chat.id)
-#        client.delete_instance()
-#
-#        await context.bot.send_message(
-#            chat_id=update.effective_chat.id,
-#            text="Du erhälst nun Warnungen über Farfalle Spinat Gratin nicht mehr",
-#        )
-#        logging.info(f"{update.effective_chat.id} was deleted from Spinach_Gratin")
-#    except:
-#        await context.bot.send_message(
-#            chat_id=update.effective_chat.id,
-#            text="Du hast die Warnungen über Farfalle Spinat Gratin noch nie erhalten",
-#        )
-#        logging.info(f"{update.effective_chat.id} was not signed up for Spinach_Gratin")
+async def Spinach_Gratin_rem(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    try:
+        client = Spinach_gratin.get(chat_id=update.effective_chat.id)
+        client.delete_instance()
+
+        await context.bot.send_message(
+            chat_id=update.effective_chat.id,
+            text="Du erhälst nun Warnungen über Farfalle Spinat Gratin nicht mehr",
+        )
+        logging.info(f"{update.effective_chat.id} was deleted from Spinach_Gratin")
+    except:
+        await context.bot.send_message(
+            chat_id=update.effective_chat.id,
+            text="Du hast die Warnungen über Farfalle Spinat Gratin noch nie erhalten",
+        )
+        logging.info(f"{update.effective_chat.id} was not signed up for Spinach_Gratin")
         
 # Functions to send Messages
 
@@ -353,7 +359,7 @@ async def db_shutdown(application: Application):
 
 if __name__ == "__main__":
     db.connect()
-    db.create_tables([Menu, Fries, Veggi])
+    db.create_tables([Menu, Fries, Veggi, Spinach_Gratin])
     Menu.create_table(safe=True)
     Fries.create_table(safe=True)
 
@@ -403,5 +409,11 @@ if __name__ == "__main__":
 
     fries_rem_handler = CommandHandler("PommesStop", fries_rem)
     application.add_handler(fries_rem_handler)
+    
+    Spinach_Gratin_signup_handler = CommandHandler("Spinatfarfalle", Spinach_Gratin_signup)
+    application.add_handler(Spinach_Gratin_signup_handler)
+
+    Spinach_Gratin_rem_handler = CommandHandler("SpinatfarfalleStop", Spinach_Gratin_rem)
+    application.add_handler(Spinach_Gratin_rem_handler)
 
     application.run_polling()
