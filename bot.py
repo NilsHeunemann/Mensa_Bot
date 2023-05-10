@@ -201,7 +201,7 @@ async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 ## Register new User for Spinach Gratin warning
 
-async def veggi_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
+async def Spinach_Gratin_signup(update: Update, context: ContextTypes.DEFAULT_TYPE):
     new_client, created = Spinach_Gratin.get_or_create(chat_id=update.effective_chat.id)
     logging.info(f"{update.effective_chat.id} tried to register for Spinach_Gratin")
 
