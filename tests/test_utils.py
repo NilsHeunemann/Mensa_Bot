@@ -10,9 +10,9 @@ class TestMenuParser():
     "Tests relating to the parse_menu function"
 
     # Setup data used in testing from files
-    df_main = pd.read_pickle('./test/main.pk1')
-    df_side = pd.read_pickle('./test/side.pk1')
-    with open('./test/web.txt', 'r') as f:
+    df_main = pd.read_pickle('./tests/data/main.pk1')
+    df_side = pd.read_pickle('./tests/data/side.pk1')
+    with open('./tests/data/web.txt', 'r') as f:
         webtext = f.read()
 
     @patch('Mensa_Bot.bot.requests.get')
@@ -39,8 +39,8 @@ class TestMessageGen():
     "class that tests the gen_message function"
 
     # get data to compare with 
-    main_dishes = pd.read_pickle('./test/main.pk1')
-    with open('./test/msg.txt', 'r') as f:
+    main_dishes = pd.read_pickle('./tests/data/main.pk1')
+    with open('./tests/data/msg.txt', 'r') as f:
         message = f.read()
 
     def test_generated_message_ok(self):
@@ -56,7 +56,7 @@ class TestFries():
     "class that tests the check_fries function"
 
     # get data to compare with
-    side_dishes = pd.read_pickle('./test/side.pk1')
+    side_dishes = pd.read_pickle('./tests/data/side.pk1')
 
     def test_some_fries(self):
         "Test if fries are correctly identified"
