@@ -18,9 +18,13 @@ from telegram.ext import (
 )
 
 # Loading Variables
-load_dotenv()
-token = os.environ["BOT_TOKEN"]
-db_path = os.environ["DB_PATH"]
+try:
+    load_dotenv()
+    token = os.environ["BOT_TOKEN"]
+    db_path = os.environ["DB_PATH"]
+except:
+    token = "test"
+    db_path = "test.db"
 
 
 berlin = timezone("Europe/Berlin")

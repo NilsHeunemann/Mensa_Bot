@@ -1,0 +1,2351 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2023 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Hauptmensa | Campus Nord Dortmund</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Aktueller Wochen-Speiseplan der Hauptmensa der TU Dortmund, Öffnungszeiten im Semester und den Ferien. Lage: Campus Nord, Vogelpothsweg 85, Dortmund." />
+<meta name="robots" content="index,follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="theme-color" content="#FFFFFF" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/stwdo_template/Resources/Public/CSS/stwdo-de/main.css?1693212316" media="all">
+<link href="/typo3conf/ext/stwdo_template/Resources/Public/CSS/glightbox/glightbox.min.css?1693212316" rel="stylesheet" >
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.stwdo.de/mensa-cafes-und-catering/tu-dortmund/hauptmensa/2023-09-25?cHash=e896dd0fe8dfe09f7a6abdcfc3500a9c"/>
+
+</head>
+<body>
+
+<script async>
+    if (window.MSInputMethodContext && document.documentMode) {
+        document.write('<script defer src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/polyfills/custom-properties.min.js"><\/script>')
+        document.write('<script defer src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/polyfills/picturefill.min.js"><\/script>')
+    }
+</script>
+<div class="canvas">
+    <a href="#main" tabindex="0" class="sronly">Zum Hauptinhalt</a>
+    <div class="page layout-default">
+        
+
+
+<div class="navbar-head-wrapper">
+    <div class="navbar-head">
+        
+
+
+        
+
+
+<nav class="navigation navigation-meta" aria-label="Metanavigation">
+    <ul class="navigation-list is-horizontal">
+        
+    
+        
+                
+    <li class="navigation-item"><a tabindex="" class="navigation-link"
+               href="/ueber-uns/arbeiten-bei-uns/stellenangebote">
+                
+                Jobs</a></li>
+
+            
+    
+        
+                
+    <li class="navigation-item"><a tabindex="" class="navigation-link"
+               href="/ueber-uns/kontakt/presse">
+                
+                Presse</a></li>
+
+            
+    
+        
+                
+    <li class="navigation-item"><a tabindex="" class="navigation-link"
+               href="/kontakt">
+                
+                Kontakt</a></li>
+
+            
+    
+
+    </ul>
+</nav>
+
+
+
+
+
+
+        
+
+<nav class="navigation navigation-main" aria-label="Schnellnavigation"><ul class="navigation-list"><li class="navigation-item is-active"><a tabindex="" class="navigation-link"
+                       href="/mensa-cafes-und-catering">Mensa</a></li><li class="navigation-item"><a tabindex="" class="navigation-link"
+                       href="/wohnen">Wohnen</a></li><li class="navigation-item"><a tabindex="" class="navigation-link"
+                       href="/bafoeg">BAföG</a></li><li class="navigation-item"><a tabindex="" class="navigation-link"
+                       href="/beratung">Beratung</a></li><li class="navigation-item"><a tabindex="" class="navigation-link"
+                       href="/ueber-uns">Über uns</a></li><li class="navigation-item"><a tabindex="" class="navigation-link"
+                       href="/aktuelles">Aktuelles</a></li><li><button class="navigation-item" data-controls="fullNavigation" tabindex="0">
+                Menü
+                <svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#hamburger"></use></svg></button></li></ul></nav>
+
+        <figure class="logo">
+            <a href="/">
+                <img alt="Logo des Studierendenwerks Dortmund" src="/typo3conf/ext/stwdo_template/Resources/Public/Images/logo.svg" width="232" height="68" />
+            </a>
+        </figure>
+
+        <button id="navbar-head-hamburger" class="button is-ghost" data-controls="fullNavigation">
+            Menü
+            <svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#hamburger"></use></svg>
+        </button>
+    </div>
+</div>
+
+
+
+        
+
+<div class="drawer" id="fullNavigation" tabindex="0"><div class="drawer__panel"><header class="drawer__controls"><span class="drawer__header">Alle Themen</span><button class="button is-light" data-controls="fullNavigation"><span>schließen</span><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#close"></use></svg></button></header><nav class="navigation-collapse"><ul class="navigation-list level-1"><li class="navigation-item is-active is-open"
+                        data-section="gastronomy"><button class="navigation-link has-children"><span class="navigation-textnode">Mensa, Cafés und Catering</span></button><div class="navigation__panel"><ul class="navigation-list level-2 collapsed"><li class="navigation-item" aria-hidden="hidden"><button class="navigation-link back-control js-back-control"><span class="navigation-textnode">Alle Themen</span></button></li><li class="navigation-item is-active is-open"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering">Übersicht</a></li><li class="navigation-item is-active is-open"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">TU Dortmund</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item is-active is-open is-current"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/hauptmensa">Hauptmensa</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/archeteria">Archeteria</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/cafec">Café C</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/cafe-che">Café Che</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/food-fakultaet">food fakultät</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/galerie">Galerie</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/tu-dortmund/mensa-sued">Mensa Süd</a></li></ul></div></li><li class="navigation-item is-active is-open"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">FH Dortmund</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-dortmund/mensa-kostbar">Mensa kostBar</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-dortmund/max-ophuels-platz">Max-Ophuels-Platz</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-dortmund/sonnenstrasse">Sonnenstraße</a></li></ul></div></li><li class="navigation-item is-active is-open"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">FH Südwestfalen</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-suedwestfalen/hagen">Hagen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-suedwestfalen/iserlohn">Iserlohn</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-suedwestfalen/meschede">Meschede</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/fh-suedwestfalen/soest">Soest</a></li></ul></div></li><li class="navigation-item is-active is-open"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Allgemein</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/kontakt-und-faqs">Kontakt und FAQs</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/mehrweg-to-go">Mehrweg to go</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/bezahlung">Bezahlung</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/unser-anspruch">Unser Anspruch</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/zusatzstoffe">Zusatzstoffe</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/weitere-angebote/werbung">Werbung</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/automaten">Automaten</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/studieren-mit-kind/kinderteller">Kinderteller</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/weitere-angebote/catering-und-events">Catering und Events</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/allgemein/campus-treff">Campus-Treff</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/mensa-cafes-und-catering/weitere-angebote/begleitservice">Begleitservice</a></li></ul></div></li></ul></div></li><li class="navigation-item"
+                        data-section="accommodation"><button class="navigation-link has-children"><span class="navigation-textnode">Wohnen, Häuser, Bewerbung</span></button><div class="navigation__panel"><ul class="navigation-list level-2 collapsed"><li class="navigation-item" aria-hidden="hidden"><button class="navigation-link back-control js-back-control"><span class="navigation-textnode">Alle Themen</span></button></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen">Übersicht</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/vor-dem-einzug/bewerbung">Online-Bewerbung</a></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Alle Wohnanlagen</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/alle-wohnanlagen">Übersicht</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/am-gardenkamp-43-45">Am Gardenkamp 43, 45</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/am-gardenkamp-51">Am Gardenkamp 51</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/am-gardenkamp-53-55">Am Gardenkamp 53, 55</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/baroper-strasse-331-335">Baroper Straße 331, 335</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/emil-figge-strasse-3-7-9">Emil-Figge-Straße 3, 7, 9</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/emil-figge-strasse-15-39">Emil-Figge-Straße 15-39</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/meitnerweg-3-16">Meitnerweg 3-16</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/ostenbergstrasse-97-99-101">Ostenbergstrasse 97, 99, 101</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-dortmund/ostenbergstrasse-109">Ostenbergstrasse 109</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/alle-wohnanlagen/vogelpothsweg-82-104-106-122">Vogelpothsweg 82-104, 106-122</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haus-in-hagen/im-alten-holz-133-135">Hagen, Im Alten Holz 133-135</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-iserlohn/ludorffstrasse-43-45">Iserlohn, Ludorffstraße 43, 45</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haeuser-in-iserlohn/steubenstrasse-14-18">Iserlohn, Steubenstraße 14, 18</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/haus-in-soest/kasernenweg-7">Soest, Kasernenweg 7</a></li></ul></div></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/vor-dem-einzug/kontakt">Kontakt</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/sprechstunde">Sprechstunde</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/faqs-zum-wohnen">FAQs zum Wohnen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/vor-dem-einzug/ausstattung">Einzug und Auszug</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/schadensmeldung-notdienst">Schadensmeldung, Notdienst</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/vor-dem-einzug/gaesteapartments">Gästeapartments</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/wohnen/vor-dem-einzug/barrierefreies-wohnen">Barrierefreies Wohnen</a></li></ul></div></li><li class="navigation-item"
+                        data-section="finance"><button class="navigation-link has-children"><span class="navigation-textnode">BAföG</span></button><div class="navigation__panel"><ul class="navigation-list level-2 collapsed"><li class="navigation-item" aria-hidden="hidden"><button class="navigation-link back-control js-back-control"><span class="navigation-textnode">Alle Themen</span></button></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/bafoeg">Übersicht</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/bafoeg/kontakt">Kontakt</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/meinantrag">Ihr BAföG-Antrag</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/bafoeg/sachstand">BAföG-Sachstand</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/bafoeg/bafoeg-faqs-auch-zu-corona">BAföG-FAQs</a></li></ul></div></li><li class="navigation-item"
+                        data-section="social-affairs"><button class="navigation-link has-children"><span class="navigation-textnode">Beratung, Kita, Soziales</span></button><div class="navigation__panel"><ul class="navigation-list level-2 collapsed"><li class="navigation-item" aria-hidden="hidden"><button class="navigation-link back-control js-back-control"><span class="navigation-textnode">Alle Themen</span></button></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung">Übersicht</a></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Ein Studium finanzieren</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/bafoeg">BAföG</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/ein-studium-finanzieren/daka-darlehen">Daka-Darlehen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/ein-studium-finanzieren/studienkredite">Weitere Geldquellen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/ein-studium-finanzieren/versicherungen">Versicherungen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/ein-studium-finanzieren/sozialbeitrag">Sozialbeitrag</a></li></ul></div></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Hilfe im Leben</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/soziales/psychosoziale-beratung">Psychologische Beratung</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/soziales/notfallhilfen-und-freitische">Notfallhilfen und Freitische</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/soziales/schuldnerberatung">Schuldnerberatung</a></li></ul></div></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Studieren mit Kind</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/studieren-mit-kind/kita-kontakt-konzept-anmeldung">Kita: Kontakt, Konzept, Anmeldung</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/studieren-mit-kind/kinderteller">Kinderteller</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/beratung/studieren-mit-kind/ein-studium-mit-kind-organisieren">Ein Studium mit Kind organisieren</a></li></ul></div></li></ul></div></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/aktuelles">Aktuelles</a></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Über uns</span></button><div class="navigation__panel"><ul class="navigation-list level-2 collapsed"><li class="navigation-item" aria-hidden="hidden"><button class="navigation-link back-control js-back-control"><span class="navigation-textnode">Alle Themen</span></button></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns">Übersicht</a></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Das sind wir</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/das-sind-wir/organisation">Organisation</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/das-sind-wir/selbstverstaendnis">Selbstverständnis</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/das-sind-wir/nachhaltigkeit">Nachhaltigkeit</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/information/chronik">Unsere Geschichte</a></li></ul></div></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Arbeiten bei uns</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/arbeiten-bei-uns/stellenangebote">Stellenangebote</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/arbeiten-bei-uns/ausbildung">Ausbildung</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/arbeiten-bei-uns/teamintern">Teamintern</a></li></ul></div></li><li class="navigation-item"
+                        data-section=""><button class="navigation-link has-children"><span class="navigation-textnode">Kontakt</span></button><div class="navigation__panel"><ul class="navigation-list level-3 collapsed"><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/kontakt">Ansprechpartner*innen</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/das-sind-wir/anfahrt">Anfahrt</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/information/infopoint">InfoPoint</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/kontakt/presse">Presse</a></li><li class="navigation-item"
+                        data-section=""><a tabindex="" class="navigation-link"
+                           href="/ueber-uns/kontakt/lob-kritik">Lob + Kritik</a></li></ul></div></li></ul></div></li></ul></nav><footer class="drawer__footer"><nav class="navigation-icons"><ul class="navigation-list"><li class="navigation-item"><a class="navigation-link"
+                                                           title="Studierendenwerk Dortmund auf Facebook"
+                                                           target="" href="https://www.facebook.com/Studierendenwerk-Dortmund-389613014736575"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#facebook"></use></svg></a></li><li class="navigation-item"><a class="navigation-link"
+                                                           title="Studierendenwerk Dortmund auf Instagram"
+                                                           target="" href="https://www.instagram.com/stwdo/"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#instagram"></use></svg></a></li><li class="navigation-item"><a class="navigation-link"
+                                                           title="Studierendenwerk Dortmund auf Youtube"
+                                                           target="" href="https://www.youtube.com/channel/UCP7Juu8xyziDGN62vBYGZbA?view_as=subscriber"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#youtube"></use></svg></a></li></ul></nav><nav class="navigation-meta is-vertical"><ul class="navigation-list"><li class="navigation-item"><a href="/ueber-uns/information/impressum" class="navigation-link">Impressum</a></li><li class="navigation-item"><a href="/barrierefreiheit" class="navigation-link">Barrierefreiheit</a></li><li class="navigation-item"><a href="/einfache-sprache" class="navigation-link">Einfache Sprache</a></li><li class="navigation-item"><a href="/hinweisgeberschutz" class="navigation-link">Hinweisgeberschutz</a></li><li class="navigation-item"><a href="/datenschutz" class="navigation-link">Datenschutz</a></li></ul></nav></footer></div></div>
+
+
+
+        
+
+        
+            <header class="page-header">
+                <div class="page-header__content">
+                    
+                        
+<nav aria-label="Breadcrumb">
+    <ul class="breadcrumb">
+        
+            
+                    <li class="breadcrumb__item"><a href="/">Startseite</a></li>
+                
+        
+            
+                    <li class="breadcrumb__item"><a href="/mensa-cafes-und-catering">Mensa, Cafés und Catering</a></li>
+                
+        
+            
+                    <li class="breadcrumb__item">Hauptmensa</li>
+                
+        
+    </ul>
+</nav>
+
+                    
+                    
+    
+
+
+
+
+
+        
+    
+
+    
+        <header class="header">
+            
+                
+
+        
+    
+
+<span class="subheader-1">Campus Nord, Dortmund</span>
+
+            
+            
+                
+
+        
+    
+
+<h1 class="headline-1">Hauptmensa</h1>
+
+            
+        </header>
+    
+
+
+
+    <p>Willkommen in der Hauptmensa - unserem größten gastronomischen Betrieb auf dem Campus. Unser Team bietet Ihnen eine große Auswahl verschiedener Menüs und Buffetvariationen. Täglich wechselnde Gerichte, vegetarische und/oder vegane Mahlzeiten bilden ein sehr vielseitiges Angebot.</p><p><a href="https://www.google.com/maps/@?api=1&amp;map_action=pano&amp;pano=CAoSLEFGMVFpcE9RSzFGSFRDRlNjMjZuNFI3UUM2LUpKUnpQeFNiaks4RVFqcjJ6" target="_blank" class="button is-light">Virtueller Rundgang bei Google Maps </a></p>
+
+    
+
+
+
+                </div>
+                <div class="page-header__image">
+                    
+    
+
+
+
+
+
+        
+    
+            
+                <figure class="image-wrapper"  style="--cl-image-background: #fab54d">
+                
+
+
+<picture><source srcset="/fileadmin/_processed_/e/4/csm_20160706wa9552_6ff0f68d93.jpg 288w, /fileadmin/_processed_/e/4/csm_20160706wa9552_c6312a80ad.jpg 328w, /fileadmin/_processed_/e/4/csm_20160706wa9552_eaef4f0835.jpg 343w, /fileadmin/_processed_/e/4/csm_20160706wa9552_92f80d602d.jpg 382w, /fileadmin/_processed_/e/4/csm_20160706wa9552_0dd0215216.jpg 767w, /fileadmin/_processed_/e/4/csm_20160706wa9552_6e0191f74e.jpg 430w, /fileadmin/_processed_/e/4/csm_20160706wa9552_65e1f57b67.jpg 518w, /fileadmin/_processed_/e/4/csm_20160706wa9552_c083a44e67.jpg 583w" media="(min-width: 0px)" sizes="(min-width: 1573px) 1573px, 100vw" /><img alt="Studierende essen und unterhalten sich in Hauptmensa" src="/fileadmin/_processed_/e/4/csm_20160706wa9552_cd04a3dd24.jpg" width="1573" height="1180" /></picture>
+
+
+                
+                    <footer><small class="copyright">© StwDo, Volker Wiciok</small></footer>
+                
+                </figure>
+            
+        
+
+    
+
+
+
+                </div>
+            </header>
+        
+
+        
+    
+
+    
+
+    <main class="main" id="main">
+        <article class="main-content">
+            
+
+
+
+
+
+        
+                
+
+                <div id="c2297" class="frame-fullwidth type-notification">
+                    
+    
+    <div class="notification notification-info">
+        <svg class="icon notification__icon" role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#info"></use></svg>
+        <div class="notification__body">
+            
+            <p>Alle Speisen auch für den außer-Haus-Verzehr! Nutzen Sie unser kostenloses <a href="/mensa-cafes-und-catering/allgemein/mehrweg-to-go" class=" link-internal">Mehrweg-System</a>.<br> Bitte beachten: Wir akzeptieren nur <a href="/mensa-cafes-und-catering/allgemein/bezahlung" class=" link-internal">bargeldlose Bezahlung</a>!</p>
+        </div>
+    </div>
+
+                </div>
+            
+    
+
+
+
+
+    
+            
+
+            <div id="c18" class="frame-default type-">
+                
+
+
+
+                
+    
+<div class="tx-pa-hours">
+	
+    
+    
+            <div id="timer-341" class="notification timer timer-no-js">
+                <svg class="icon notification__icon" role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#clock"></use></svg>
+                <div class="notification__body">
+                    <span>Hauptmensa
+                        <span
+                                id="timer--inner-341"
+                                data-opens-at-next="1695634200"
+                                data-closes-at-next=""
+                                data-is-open-now=""
+                                data-is-open-today="1">
+                        <span class="timer-js"></span>
+                        <noscript>ist heute geöffnet.</noscript>
+                    </span>
+                    </span>
+                </div>
+            </div><!-- /.timer .timer-no-js-->
+            <script type="text/javascript">document.addEventListener('DOMContentLoaded', () => initializeTimer('341', 'Mon, 25 Sep 2023'));</script>
+        
+
+</div>
+
+            </div>
+        
+
+
+
+
+
+
+    
+            
+
+            <div id="c15" class="frame-default type-">
+                
+
+
+
+                
+    
+
+<div class="pa-meals-onlineplan">
+
+    
+    
+        
+        <header class="sr-only-md-up">
+            <span class="subheader-2">Speiseplan</span>
+            <h2 class="headline-2 mb-0">Montag, 25.09.2023</h2>
+        </header>
+        
+            <a href="/fileadmin/downloads/gastronomie/speiseplaene/wochenplan-hauptmensa.pdf" target="_blank" class="download-link button is-light">Wochenplan als PDF</a>
+        
+        <form method="post" class="day-form" id="canteen-plan-15" action="/mensa-cafes-und-catering/tu-dortmund/hauptmensa?tx_pamensa_mensa%5Baction%5D=form&amp;tx_pamensa_mensa%5Bcontroller%5D=OnlinePlan&amp;cHash=b09c4b6deb9fcd71011ceb064331b56c#canteen-plan-15">
+<div>
+<input type="hidden" name="tx_pamensa_mensa[__referrer][@extension]" value="PaMensa" />
+<input type="hidden" name="tx_pamensa_mensa[__referrer][@controller]" value="OnlinePlan" />
+<input type="hidden" name="tx_pamensa_mensa[__referrer][@action]" value="day" />
+<input type="hidden" name="tx_pamensa_mensa[__referrer][arguments]" value="YTozOntzOjY6ImFjdGlvbiI7czozOiJkYXkiO3M6MTA6ImNvbnRyb2xsZXIiO3M6MTA6Ik9ubGluZVBsYW4iO3M6NDoiZGF0ZSI7czoxMDoiMjAyMy0wOS0yNSI7fQ==3900a3e7ae96003b68edbaff92dd7b2039c7fd39" />
+<input type="hidden" name="tx_pamensa_mensa[__referrer][@request]" value="{&quot;@extension&quot;:&quot;PaMensa&quot;,&quot;@controller&quot;:&quot;OnlinePlan&quot;,&quot;@action&quot;:&quot;day&quot;}83dffa15057976ba8ac9d32883ae4b753bd0ccfd" />
+<input type="hidden" name="tx_pamensa_mensa[__trustedProperties]" value="{&quot;date&quot;:1,&quot;filter&quot;:1}1c24cef0080f9b54ba2b60d57386d0c7fc354cc9" />
+</div>
+
+            <div class="field has-addons">
+                <div class="control">
+                    <div class="select">
+                        <svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#calendar"></use></svg>
+                        <select name="tx_pamensa_mensa[date]"><option value="2023-09-25" selected="selected">Montag, 25.09.2023</option>
+<option value="2023-09-26">Dienstag, 26.09.2023</option>
+<option value="2023-09-27">Mittwoch, 27.09.2023</option>
+<option value="2023-09-28">Donnerstag, 28.09.2023</option>
+<option value="2023-09-29">Freitag, 29.09.2023</option>
+</select>
+                    </div>
+                </div>
+                <input class="button" type="submit" value="anzeigen" />
+            </div>
+
+            
+
+            <div class="button-group has-addons">
+                
+                    <input class="radio-input" id="m-15-f-all" type="radio" name="tx_pamensa_mensa[filter]" value="" checked="checked" />
+                    <label for="m-15-f-all" class="button is-ghost">All</label>
+                
+                    <input class="radio-input" id="m-15-f-halal" type="radio" name="tx_pamensa_mensa[filter]" value="-S" />
+                    <label for="m-15-f-halal" class="button is-ghost">Ohne Schweinefleisch</label>
+                
+                    <input class="radio-input" id="m-15-f-pescetarian" type="radio" name="tx_pamensa_mensa[filter]" value="-G,L,R,S,W" />
+                    <label for="m-15-f-pescetarian" class="button is-ghost">Pescetarisch</label>
+                
+                    <input class="radio-input" id="m-15-f-vegetarian" type="radio" name="tx_pamensa_mensa[filter]" value="+V,N" />
+                    <label for="m-15-f-vegetarian" class="button is-ghost">Vegetarisch</label>
+                
+                    <input class="radio-input" id="m-15-f-vegan" type="radio" name="tx_pamensa_mensa[filter]" value="+N" />
+                    <label for="m-15-f-vegan" class="button is-ghost">Vegan</label>
+                
+            </div>
+        </form>
+        <div class="meals-wrapper">
+            
+                    <table class="meals">
+                        <thead class="meals__thead">
+                        <tr class="meals__row">
+                            <th class="meals__column-category"><h4 class="headline-4">Menü</h4></th>
+                            <th class="meals__column-title"><h4 class="headline-4">Gerichte</h4></th>
+                            <th class="meals__column-supplies"><h4 class="headline-4">Type</h4></th>
+                            <th class="meals__column-price"><h4 class="subheader-4">Studierende</h4>
+                            </th>
+                            <th class="meals__column-price"><h4 class="subheader-4">Beschäftigte</h4>
+                            </th>
+                            <th class="meals__column-price"><h4 class="subheader-4">Gäste</h4>
+                            </th>
+                        </tr>
+                        </thead>
+                        <tbody class="meals__tbody">
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-V fs-K odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Tagesgericht" alt="Tagesgericht"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-tagesgericht.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Gefüllte Ravioli | Gemüsesauce | (20a,22,26,28)</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Ohne Fleisch" alt="Ohne Fleisch"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegetarisch.png" /> <img class="meals__icon-supply" title="Kinderteller" alt="Kinderteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-kinderteller.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        1,90 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        3,90 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        4,90 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-G fs-K even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Menü 1" alt="Menü 1"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-menue-1.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">&quot;Rigatonipfanne&quot; | Nudeln | Putenhackfleisch | Gemüse | Pesto | 1 Beilage | (20a,28)</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Mit Geflügel" alt="Mit Geflügel"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-gefluegel.png" /> <img class="meals__icon-supply" title="Kinderteller" alt="Kinderteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-kinderteller.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        2,80 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        4,80 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        5,80 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-G fs-K odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Menü 2" alt="Menü 2"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-menue-2.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Hähnchenbrustfilet &quot;Piccata&quot; | Tomatensauce | 2 Beilagen | (20a,26,32)</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Mit Geflügel" alt="Mit Geflügel"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-gefluegel.png" /> <img class="meals__icon-supply" title="Kinderteller" alt="Kinderteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-kinderteller.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        3,00 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        5,00 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        6,00 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N fs-K even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Vegetarisches Menü" alt="Vegetarisches Menü"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-veggie-menue.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Bunte Schupfnudelpfanne | Kräutersauce | 1 Beilage | </span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" /> <img class="meals__icon-supply" title="Kinderteller" alt="Kinderteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-kinderteller.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        2,80 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        4,80 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        5,80 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Aktionsteller" alt="Aktionsteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-aktionsteller.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Veganer Gyros | Dip |  Pommes frites | Krautsalat/ Salat | (20c,25,28,29) </span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        4,60 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        6,60 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        7,60 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-G even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Aktionsteller" alt="Aktionsteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-aktionsteller.png" />
+    </td>
+    <td class="meals__column-title">
+        
+            <div class="tag-group">
+                <div class="tag"><span>HALAL</span></div>
+            </div>
+        
+        <span class="meals__title">Hähnchen-Döner vom Drehspieß | Tzatziki | Pommes frites | Krautsalat/Salat | (1,22,25,26,29)</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Mit Geflügel" alt="Mit Geflügel"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-gefluegel.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        5,60 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        7,60 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        8,60 €
+    </td>
+</tr>
+
+                        
+                            
+
+
+<tr data-de="" data-en="" class="meals__row  fs-V odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Aktionsteller" alt="Aktionsteller"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-aktionsteller.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Börek Stange Spinat u. Käse | Sauerrahm | Curryreis | Salat | (20a,26,29)</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Ohne Fleisch" alt="Ohne Fleisch"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegetarisch.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        3,30 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        5,30 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        6,30 €
+    </td>
+</tr>
+
+                        
+
+                        
+
+                        
+                            <tr class="meals__row meals__thead">
+                                <th class="meals__counter-title"><h4 class="headline-4">Beiwerke</h4></th>
+                            </tr>
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Tagessuppe</span>
+    </td>
+    <td class="meals__column-supplies">
+        
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Farfalle</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Kartoffelbällchen</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Erbsen</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  fs-N odd">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Gemischter Salat an Vinaigrette</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Vegane Speise" alt="Vegane Speise"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegan.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                                
+
+
+<tr data-de="" data-en="" class="meals__row  fs-V even">
+    <td class="meals__column-category">
+        <img class="meals__icon-category" title="Beilagen" alt="Beilagen"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Categories/icon-beilagen.png" />
+    </td>
+    <td class="meals__column-title">
+        
+        <span class="meals__title">Schokomilchreis+Sauce</span>
+    </td>
+    <td class="meals__column-supplies">
+        <img class="meals__icon-supply" title="Ohne Fleisch" alt="Ohne Fleisch"  src="/typo3conf/ext/pa_mensa/Resources/Public/Images/Supplies/icon-vegetarisch.png" />
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Studierende">
+            S:
+        </abbr>
+        0,50 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Beschäftigte">
+            B:
+        </abbr>
+        0,70 €
+    </td>
+    <td class="meals__column-price">
+        <abbr title="Gäste">
+            G:
+        </abbr>
+        0,90 €
+    </td>
+</tr>
+
+                            
+                        
+                        </tbody>
+                        <tfoot></tfoot>
+                    </table>
+                
+        </div>
+    
+
+
+</div><!-- /#pa-mensa-onlineplan -->
+
+
+
+
+            </div>
+        
+
+
+
+
+
+
+
+
+
+        
+                
+
+                <div id="c2450" class="frame-default type-text">
+                    
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Was ist drin? </h2>
+    
+
+            
+        </header>
+    
+
+
+
+    <p><span class="subheader-3"><a href="/mensa-cafes-und-catering/allgemein/zusatzstoffe" target="_blank" class=" link-internal">Informationen über Allergene und Zusatzstoffe</a></span></p>
+
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+
+                <div id="c458" class="frame-default type-mensainfo">
+                    
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Die Hauptmensa</h2>
+    
+
+            
+        </header>
+    
+
+
+
+    <div class="mensainfo">
+        <figure class="mensainfo__logo">
+            
+
+
+
+    
+        
+            
+
+
+
+
+
+        
+    
+            
+
+
+
+
+
+        <div class="gallery">
+            
+                
+    <figure class="media">
+        
+                
+    
+
+
+<img src="/fileadmin/images/logo/logo-hauptmensa.svg" width="283" height="283" alt="" />
+
+
+
+            
+
+        
+        
+    </figure>
+
+            
+        </div>
+    
+
+
+
+
+
+
+
+
+
+        
+
+    
+
+
+        
+    
+
+
+        </figure>
+        <div class="mensainfo__content">
+            
+
+            <div class="mensainfo__data row">
+                
+                    <div class="column mb-5">
+                        
+
+
+
+    
+        
+            
+
+
+
+
+
+        <div class="textmedia small-left small-left">
+            
+                <div class="text-area">
+                    
+    
+
+    
+        <header class="header">
+            
+                
+
+
+<span class="subheader-5">Ort</span>
+
+            
+            
+                
+
+
+<h5 class="headline-5">Campus Nord</h5>
+
+            
+        </header>
+    
+
+
+
+
+                    
+    <p><strong>Vogelpothsweg 85</strong><br> 44227 Dortmund</p><p><a href="https://www.google.com/maps/dir/?api=1&amp;destination=Vogelpothsweg+85,+44227+Dortmund&amp;destination_place_id=ChIJ-ZcxkawZuUcR_3gJPtiOq70&amp;travelmode=walking" target="_blank" class="button is-light" title="Internen Link im aktuellen Fenster öffnen">Google Maps</a></p>
+
+                </div>
+            
+            <div class="media-area">
+                
+                    
+                    <figure class="media ">
+                        
+                                
+
+
+<img src="/fileadmin/images/Icon/location-lg.svg" width="68" height="63" alt="" />
+
+
+                            
+
+                        
+                        
+                    </figure>
+                
+            </div>
+        </div>
+    
+
+
+        
+    
+
+
+                    </div>
+                
+                
+                    <div class="column mb-5">
+                        
+
+
+
+    
+        
+            
+
+
+    
+            
+    
+<div class="tx-pa-hours">
+	
+    
+        <div class="textmedia small-left small-left">
+            <div class="text-area">
+                <header class="header">
+                    <span class="subheader-5">Öffnungszeiten</span>
+                    <h5 class="headline-5">Hauptmensa</h5>
+                </header>
+
+                <div class="row">
+                    
+                            
+                                <div class="column mb-3">
+                                    
+
+        <header>
+            
+                <h6 class="headline-6">
+                    Öffnungszeit
+                </h6>
+            
+            <span class="subheader-5 mt-2">
+                    
+                            
+                            
+                        
+                </span>
+        </header>
+    
+
+
+    <table class="table-hours">
+        <tbody>
+        
+            <tr class="morning-times">
+    
+        <td class="days">
+            
+            Mo - Do
+        </td>
+    
+
+    <td colspan="1" class="time">
+        11:30
+        - 14:15 Uhr
+    </td>
+
+</tr>
+
+
+        
+            <tr class="morning-times">
+    
+        <td class="days">
+            
+            Freitag
+        </td>
+    
+
+    <td colspan="1" class="time">
+        11:30
+        - 14:00 Uhr
+    </td>
+
+</tr>
+
+
+        
+        </tbody>
+    </table>
+
+
+
+                                </div>
+                            
+                        
+                </div>
+                <div class="row">
+                    
+                </div>
+
+                
+                    <header>
+                        <h6 class="headline-6">Betriebsferien</h6>
+                    </header>
+                    <table class="closed table-hours">
+                        <tbody>
+
+                        
+                            <tr>
+                                <td class="date">
+                                    
+                                            Am 02.10.2023
+                                        
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td class="date">
+                                    
+                                            Vom 27.12.2023
+                                            bis 01.01.2024
+                                        
+                                </td>
+                            </tr>
+                        
+                        </tbody>
+                    </table>
+
+                
+            </div>
+            <div class="media-area">
+                <figure class="media">
+                    <img src="/fileadmin/images/Icon/time-lg.svg" alt="" width="68" height="63">
+                </figure>
+            </div>
+        </div>
+    
+
+</div>
+
+        
+
+
+
+
+        
+    
+
+
+                    </div>
+                
+                
+            </div>
+        </div>
+    </div>
+
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+
+                <div id="c1716" class="frame-fullwidth type-text">
+                    
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Begleitung für Gäste mit Behinderung</h2>
+    
+
+            
+        </header>
+    
+
+
+
+    <p>Wir bieten bei Bedarf eine persönliche Begleitung für den Besuch in der Hauptmensa an. Um diesen Service in Anspruch zu nehmen, brauchen Sie nur zum InfoPoint im Foyer des <a href="/ueber-uns/das-sind-wir/anfahrt" class=" link-internal">Mensagebäudes</a> zu kommen. Ein taktiles Wegeleitsystem führt Sie durch das Mensafoyer direkt dorthin. Die Mitarbeiter*innen im InfoPoint werden Ihren Besuch bei der Küchenleitung melden und Sie zum Aufzug begleiten. In der Hauptmensa werden Sie dann von einer Servicekraft in Empfang genommen, die Ihnen ganz nach Ihrem Bedarf zum Beispiel das Speisenangebot vorliest, zum gewünschten Counter führt oder beim Tragen des Tabletts und beim Aufsuchen eines Sitzplatzes behilflich ist. Dieses Serviceangebot gilt auch für einen Besuch in der <a href="/mensa-cafes-und-catering/tu-dortmund/galerie" class=" link-internal" title="Galerie auf dem Campus Nord in Dortmund">Galerie</a> auf dem Campus Nord.</p>
+
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+
+                <div id="c1555" class="frame-default type-form_formframework">
+                    
+
+    
+    
+
+    
+
+        <form enctype="multipart/form-data" method="post" id="feedbackMensa-1555" action="/mensa-cafes-und-catering/tu-dortmund/hauptmensa?tx_form_formframework%5Baction%5D=perform&amp;tx_form_formframework%5Bcontroller%5D=FormFrontend&amp;cHash=3569305d63a01e62a7dc1d2af01237fa#feedbackMensa-1555">
+<div><input type="hidden" name="tx_form_formframework[feedbackMensa-1555][__state]" value="TzozOToiVFlQTzNcQ01TXEZvcm1cRG9tYWluXFJ1bnRpbWVcRm9ybVN0YXRlIjoyOntzOjI1OiIAKgBsYXN0RGlzcGxheWVkUGFnZUluZGV4IjtpOjA7czoxMzoiACoAZm9ybVZhbHVlcyI7YTowOnt9fQ==5a36be1826f71573922f1ed5c8d1468a086420c0" /><input type="hidden" name="tx_form_formframework[__trustedProperties]" value="{&quot;feedbackMensa-1555&quot;:{&quot;6Eta2Uf3k0P4&quot;:1,&quot;text-1&quot;:1,&quot;email-1&quot;:1,&quot;textarea-1&quot;:1,&quot;__currentPage&quot;:1}}165c3d40c42e5838d17519dd17834f69bbb6fc3d" />
+</div>
+
+            
+
+    
+        <h2 class="headline-section">Feedback</h2>
+    
+    
+        
+
+        <input autocomplete="6Eta2Uf3k0P4" aria-hidden="true" id="feedbackMensa-1555-6Eta2Uf3k0P4" style="position:absolute; margin:0 0 0 -999em;" tabindex="-1" type="text" name="tx_form_formframework[feedbackMensa-1555][6Eta2Uf3k0P4]" />
+    
+
+
+    
+        
+
+    
+
+    <div class="field">
+        
+            <label class="label" for="feedbackMensa-1555-text-1">Name
+                
+            </label>
+        
+        <div class="control">
+            
+                
+        <input required="required" maxlength="255" minlength="1" class="input form-control" id="feedbackMensa-1555-text-1" type="text" name="tx_form_formframework[feedbackMensa-1555][text-1]" value="" />
+    
+            
+
+        </div>
+        
+        
+    </div>
+
+
+
+
+
+
+    
+        
+
+    
+
+    <div class="field">
+        
+            <label class="label" for="feedbackMensa-1555-email-1">E-Mail
+                
+                    
+<span class="optional">(optional)</span>
+
+
+                
+            </label>
+        
+        <div class="control">
+            
+                
+        <input class="input form-control" id="feedbackMensa-1555-email-1" type="email" name="tx_form_formframework[feedbackMensa-1555][email-1]" value="" />
+    
+            
+
+        </div>
+        
+        
+    </div>
+
+
+
+
+
+
+    
+        
+
+    
+
+    <div class="field">
+        
+            <label class="label" for="feedbackMensa-1555-textarea-1">Ihr Feedback
+                
+            </label>
+        
+        <div class="control">
+            
+                
+        <textarea required="required" class="textarea form-control" id="feedbackMensa-1555-textarea-1" name="tx_form_formframework[feedbackMensa-1555][textarea-1]"></textarea>
+    
+            
+
+        </div>
+        
+        
+    </div>
+
+
+
+
+
+
+    
+
+
+
+            <div class="actions">
+                
+<nav class="form-navigation">
+    <div class="toolbar" role="toolbar">
+        <div class="button-group" role="group">
+            
+            
+                    <button class="button" type="submit" name="tx_form_formframework[feedbackMensa-1555][__currentPage]" value="1">
+                        Absenden
+                    </button>
+                
+        </div>
+    </div>
+</nav>
+
+
+            </div>
+        </form>
+
+
+
+    
+
+
+
+
+
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+
+                <div id="c1367" class="frame-default type-image">
+                    
+    
+            
+
+
+
+    
+    
+    
+
+
+
+        <div class="gallery grid-3">
+            
+                <div class="grid-item">
+                    
+    <figure class="media has-lightbox">
+        
+                <a class="js-lightbox lightbox-link"
+                   href="https://www.stwdo.de/misc/vr/Hauptmensa/"
+                   data-title=""
+                   data-description=""
+                   data-gallery="gallery-1367"
+                   data-glightbox='width:80vw; height:45vw; title:; description: © StwDo'
+                >
+                    
+    
+
+
+<picture><source srcset="/fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_4f9804d7a3.jpg 368w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_503d32b5ee.jpg 418w" media="(min-width: 1104px)" sizes="(max-width: 1200px) 368px, (max-width: 1350px) 418px" /><source srcset="/fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_9c13c90ec3.jpg 352w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_904b4fee96.jpg 519w" media="(min-width: 736px)" sizes="(max-width: 768px) 352px, (max-width: 1102px) 519px" /><source srcset="/fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_6a1193bb12.jpg 288w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_7b11bb0222.jpg 328w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_82d26e94c6.jpg 343w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_c98900075b.jpg 382w, /fileadmin/_processed_/f/2/csm_Treppenaufgang_Hauptmensa_neu_Teaser_VR_67fbaf9e53.jpg 703w" media="(min-width: 0px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px, (max-width: 735px) 703px" /><img src="/fileadmin/user_upload/Treppenaufgang_Hauptmensa_neu_Teaser_VR.jpg" width="640" height="426" alt="" /></picture>
+
+
+
+                </a>
+            
+
+        
+        
+            <footer><small class="copyright">© StwDo</small></footer>
+        
+    </figure>
+
+                </div>
+            
+                <div class="grid-item">
+                    
+    <figure class="media has-lightbox">
+        
+                <a class="js-lightbox lightbox-link"
+                   href="/fileadmin/_processed_/1/8/csm_20160706wa9481_6f70bbe785.jpg"
+                   data-title=""
+                   data-description=""
+                   data-gallery="gallery-1367"
+                   data-glightbox='width:80vw; height:45vw; title:; description: © Studierendenwerk Dortmund, Volker Wiciok'
+                >
+                    
+    
+
+
+<picture><source srcset="/fileadmin/_processed_/1/8/csm_20160706wa9481_b3d26bbcd8.jpg 368w, /fileadmin/_processed_/1/8/csm_20160706wa9481_eebc409961.jpg 418w" media="(min-width: 1104px)" sizes="(max-width: 1200px) 368px, (max-width: 1350px) 418px" /><source srcset="/fileadmin/_processed_/1/8/csm_20160706wa9481_bab0c5b48c.jpg 352w, /fileadmin/_processed_/1/8/csm_20160706wa9481_14af6a7b7d.jpg 519w" media="(min-width: 736px)" sizes="(max-width: 768px) 352px, (max-width: 1102px) 519px" /><source srcset="/fileadmin/_processed_/1/8/csm_20160706wa9481_d69a2be603.jpg 288w, /fileadmin/_processed_/1/8/csm_20160706wa9481_839dec0f8f.jpg 328w, /fileadmin/_processed_/1/8/csm_20160706wa9481_2fc220548b.jpg 343w, /fileadmin/_processed_/1/8/csm_20160706wa9481_e4f4d58739.jpg 382w, /fileadmin/_processed_/1/8/csm_20160706wa9481_f35432f38c.jpg 703w" media="(min-width: 0px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px, (max-width: 735px) 703px" /><img alt="Studierende bedienen sich am Buffet in der Hauptmensa" src="/fileadmin/images/Mensa/Hauptmensa/20160706wa9481.jpg" width="1772" height="1181" /></picture>
+
+
+
+                </a>
+            
+
+        
+        
+            <footer><small class="copyright">© Studierendenwerk Dortmund, Volker Wiciok</small></footer>
+        
+    </figure>
+
+                </div>
+            
+                <div class="grid-item">
+                    
+    <figure class="media has-lightbox">
+        
+                <a class="js-lightbox lightbox-link"
+                   href="/fileadmin/_processed_/9/7/csm_20160706wr2253_8c6e3c3389.jpg"
+                   data-title=""
+                   data-description=""
+                   data-gallery="gallery-1367"
+                   data-glightbox='width:80vw; height:45vw; title:; description: © Studierendenwerk Dortmund, Volker Wiciok'
+                >
+                    
+    
+
+
+<picture><source srcset="/fileadmin/_processed_/9/7/csm_20160706wr2253_5546f26acd.jpg 368w, /fileadmin/_processed_/9/7/csm_20160706wr2253_0c30e939f9.jpg 418w" media="(min-width: 1104px)" sizes="(max-width: 1200px) 368px, (max-width: 1350px) 418px" /><source srcset="/fileadmin/_processed_/9/7/csm_20160706wr2253_994c5fa576.jpg 352w, /fileadmin/_processed_/9/7/csm_20160706wr2253_7e4b5c758d.jpg 519w" media="(min-width: 736px)" sizes="(max-width: 768px) 352px, (max-width: 1102px) 519px" /><source srcset="/fileadmin/_processed_/9/7/csm_20160706wr2253_2a2d95db4d.jpg 288w, /fileadmin/_processed_/9/7/csm_20160706wr2253_038eebcd50.jpg 328w, /fileadmin/_processed_/9/7/csm_20160706wr2253_5ac6af2bbd.jpg 343w, /fileadmin/_processed_/9/7/csm_20160706wr2253_dd0f93c1f9.jpg 382w, /fileadmin/_processed_/9/7/csm_20160706wr2253_700477b0cc.jpg 703w" media="(min-width: 0px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px, (max-width: 735px) 703px" /><img alt="Ein Koch bereitet in der Küche der Hauptmensa ein Nudelgericht zu." src="/fileadmin/images/Mensa/Hauptmensa/20160706wr2253.jpg" width="1772" height="1182" /></picture>
+
+
+
+                </a>
+            
+
+        
+        
+            <footer><small class="copyright">© Studierendenwerk Dortmund, Volker Wiciok</small></footer>
+        
+    </figure>
+
+                </div>
+            
+        </div>
+    
+
+
+
+
+
+
+
+
+
+        
+
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+                <div id="c2893" class="frame-default type-textpic beside-right-small">
+                    <div class="textmedia beside-right-small">
+                        
+                            <div class="text-area">
+                                
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Ausgezeichnet vegan!</h2>
+    
+
+            
+        </header>
+    
+
+
+
+
+                                
+    <p>Für die Tierschutzorganisation PETA zählt die Hauptmensa des Studierendenwerks zu den veganfreundlichsten Mensen Deutschlands. Aufgrund des Angebots wurde die Mensa in den letzten Jahren bereits mehrfach ausgezeichnet, zuletzt im August 2023.</p><p>PETA schreibt: "Mit Ihrem Angebot an veganen Gerichten bieten Sie allen Student*innen und Universitätsmitarbeiter*innen die Möglichkeit, sich auch außer Haus tierleidfrei und gesund ernähren zu können. Damit zeigen Sie, dass sich Aspekte wie Ernährungsphysiologie, ökologische Verträglichkeit, soziale Gerechtigkeit und Tierschutz mit den täglichen Anforderungen der Führung einer Hochschulmensa durchaus vereinbaren lassen. Ihr Beitrag zum Thema vegane Ernährung bietet Anregung und Motivation für andere Hochschulgastronom*innen als auch für andere Großküchen, die Ihrem positiven Beispiel hoffentlich folgen werden. Mit der Vergabe von jeweils 3 Sternen für eine der vegan-freundlichsten Mensen Deutschlands zeichnen wir Sie für Ihr Engagement und Ihre Gastfreundlichkeit aus. Herzlichen Dank für Ihren Beitrag, Mitgefühl und Ethik einen Platz in unserer Gesellschaft einzuräumen."</p><p>Weitere Informationen zu den Vergabekriterien erläutert die Tierschutzorganisation auf der <a href="https://www.peta.de/veganleben/vegane-mensa/" target="_blank" class=" link-external">PETA-Internetseite</a>.</p>
+
+                            </div>
+                        
+                        <div class="media-area">
+                            
+                                <figure class="media">
+                                    
+                                            
+
+
+<picture><source srcset="/fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_25624c13fd.jpg 736w, /fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_affe7e15c2.jpg 1168w, /fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_2b337af72f.jpg 1318w" media="(min-width: 601px)" sizes="(max-width: 768px) 736px, (max-width: 1200px) 1168px, (max-width: 1350px) 1318px" /><source srcset="/fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_b38f095626.jpg 288w, /fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_0e572db86a.jpg 328w, /fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_799c7f53cc.jpg 343w, /fileadmin/_processed_/9/d/csm_PETA_Urkunde_A4_Hauptmensa_Dortmund_be078bf5ab.jpg 382w" media="(max-width: 600px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px" /><img alt="PETA-Urkunde 2023 veganfreundliche Mensa" src="/fileadmin/user_upload/PETA_Urkunde_A4_Hauptmensa_Dortmund.jpg" width="595" height="863" /></picture>
+
+
+                                        
+
+                                    
+                                    
+                                        <footer><small class="copyright">© StwDo</small></footer>
+                                    
+                                </figure>
+                            
+                        </div>
+                    </div>
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+                <div id="c2413" class="frame-default type-textpic beside-right">
+                    <div class="textmedia beside-right">
+                        
+                            <div class="text-area">
+                                
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Kinderspielecke in der Hauptmensa</h2>
+    
+
+            
+        </header>
+    
+
+
+
+
+                                
+    <p>Kinder sind in allen unseren Einrichtungen herzlich willkommen! In der Hauptmensa haben die kleinen Gäste sogar einen eigenen Bereich, die "Kinderspielecke". Dort warten bunte Sitzmöbel und ein wenig Spielzeug auf die Jüngsten. Die Spielecke soll den Eltern die Chance geben, selbst in Ruhe essen zu können. Sie befindet sich in einer der fünf großen Fenstergauben der Hauptmensa. Schilder und Banner weisen auf das Angebot hin. Die benachbarten Tische sind für Familien reserviert, für die Kleinsten stehen Hochstühle zur Verfügung.</p><h4 class="headline-4">Still- und Wickelraum im Mensa-Foyer</h4><p>Ein Still- und Wickelraum befindet sich nur eine Etage tiefer im Foyer des Mensagebäudes. Den Schlüssel für den Raum erhalten Sie im gegenüberliegenden InfoPoint.</p><h4 class="headline-4">Kostenloser Kinderteller</h4><p>Kinder im Alter bis 10 Jahre essen in unseren Mensen kostenlos, sofern die studentische Begleitperson ein eigenes vollständiges Essen erwirbt. Alle Infos dazu <a href="/beratung/studieren-mit-kind/kinderteller" class=" link-internal">hier</a>.</p>
+
+                            </div>
+                        
+                        <div class="media-area">
+                            
+                                <figure class="media">
+                                    
+                                            
+
+
+<picture><source srcset="/fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_9089ca9e53.jpg 736w, /fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_9ffcfce3f8.jpg 1168w, /fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_cb78b0df3c.jpg 1318w" media="(min-width: 601px)" sizes="(max-width: 768px) 736px, (max-width: 1200px) 1168px, (max-width: 1350px) 1318px" /><source srcset="/fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_b6f57a26ee.jpg 288w, /fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_08de8d98c1.jpg 328w, /fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_54db4e787a.jpg 343w, /fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_f3de955a68.jpg 382w" media="(max-width: 600px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px" /><img src="/fileadmin/_processed_/5/2/csm_Kinderspielecke_mit_Kindern_5e760881a8.jpg" width="3495" height="2330" alt="" /></picture>
+
+
+                                        
+
+                                    
+                                    
+                                        <footer><small class="copyright">© StwDo</small></footer>
+                                    
+                                </figure>
+                            
+                        </div>
+                    </div>
+                </div>
+            
+    
+
+
+
+
+
+
+
+        
+                
+                <div id="c2480" class="frame-default type-textpic beside-right">
+                    <div class="textmedia beside-right">
+                        
+                            <div class="text-area">
+                                
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+
+        <h2 class="headline-section">Wörterbuch für den Besuch der Mensa: Deutsch, Englisch und Chinesisch</h2>
+    
+
+            
+        </header>
+    
+
+
+
+
+                                
+    <p>Mehr als lecker! Das „Illustrierte Mensawörterbuch“ begleitet drei Studierende auf ihrem täglichen Weg durch die Mensa. Dabei werden Speisen und Getränke, die MensaCard, die Zutatenliste sowie regionale Unterschiede erklärt – mit Illustrationen und Vokabeln in drei Sprachen (Deutsch, Englisch und Chinesisch). Das Wörterbuch wurde von unserem Dachverband, dem Deutschen Studierendenwerk, erstellt und soll vor allem ausländischen Studierenden dabei helfen, sich in der Mensa zu orientieren. Zudem präsentiert es die Vielfalt und Qualität des Mensaessens.</p><p>Hier geht es <a href="https://www.studierendenwerke.de/fileadmin/api/files/1908_wwb-mensa_2_web.pdf" target="_blank" class=" link-external">zum Wörterbuch</a>.</p>
+
+                            </div>
+                        
+                        <div class="media-area">
+                            
+                                <figure class="media">
+                                    
+                                            
+
+
+<picture><source srcset="/fileadmin/_processed_/e/f/csm_woerterbuch_1d6d8dea79.png 736w, /fileadmin/_processed_/e/f/csm_woerterbuch_99bc6f967d.png 1168w, /fileadmin/_processed_/e/f/csm_woerterbuch_7ac764af99.png 1318w" media="(min-width: 601px)" sizes="(max-width: 768px) 736px, (max-width: 1200px) 1168px, (max-width: 1350px) 1318px" /><source srcset="/fileadmin/_processed_/e/f/csm_woerterbuch_746633ad4a.png 288w, /fileadmin/_processed_/e/f/csm_woerterbuch_1ea876da43.png 328w, /fileadmin/_processed_/e/f/csm_woerterbuch_f39a194c55.png 343w, /fileadmin/_processed_/e/f/csm_woerterbuch_ca48e99c11.png 382w" media="(max-width: 600px)" sizes="(max-width: 320px) 288px, (max-width: 360px) 328px, (max-width: 375px) 343px, (max-width: 414px) 382px" /><img src="/fileadmin/_processed_/e/f/csm_woerterbuch_1e5305e4d8.png" width="606" height="454" alt="" /></picture>
+
+
+                                        
+
+                                    
+                                    
+                                        <footer><small class="copyright">© StwDo</small></footer>
+                                    
+                                </figure>
+                            
+                        </div>
+                    </div>
+                </div>
+            
+    
+
+
+        </article>
+        
+    </main>
+
+    </div>
+    
+    
+
+
+<nav aria-label="Mensa & Co.">
+    <section class="sitemap-wrapper">
+        <header class="sitemap-header">
+            <span class="subheader-4">Sitemap</span>
+            <h4 class="headline-4">Mensa & Co.</h4>
+        </header>
+        
+    <div class="sitemap">
+        
+        
+            <div class="sitemap__single-row">
+                <ul class="navigation-list">
+                    
+                        <li class="sitemap__headline"><a class="text-node navigation-link"
+                                                         href="/mensa-cafes-und-catering">Übersicht</a>
+                        </li>
+                    
+                </ul>
+            </div>
+        
+        
+            <div class="sitemap__column">
+                
+                    <div class="sitemap__panel">
+                        <h5 class="sitemap__headline has-subpages"><a class="text-node" href="/mensa-cafes-und-catering">TU Dortmund</a></h5>
+                        <ul class="navigation-list">
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/hauptmensa">Hauptmensa</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/archeteria">Archeteria</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/cafec">Café C</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/cafe-che">Café Che</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/food-fakultaet">food fakultät</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/galerie">Galerie</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/tu-dortmund/mensa-sued">Mensa Süd</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+        
+            <div class="sitemap__column">
+                
+                    <div class="sitemap__panel">
+                        <h5 class="sitemap__headline has-subpages"><a class="text-node" href="/mensa-cafes-und-catering">FH Dortmund</a></h5>
+                        <ul class="navigation-list">
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-dortmund/mensa-kostbar">Mensa kostBar</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-dortmund/max-ophuels-platz">Max-Ophuels-Platz</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-dortmund/sonnenstrasse">Sonnenstraße</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+        
+            <div class="sitemap__column">
+                
+                    <div class="sitemap__panel">
+                        <h5 class="sitemap__headline has-subpages"><a class="text-node" href="/mensa-cafes-und-catering">FH Südwestfalen</a></h5>
+                        <ul class="navigation-list">
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-suedwestfalen/hagen">Hagen</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-suedwestfalen/iserlohn">Iserlohn</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-suedwestfalen/meschede">Meschede</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/fh-suedwestfalen/soest">Soest</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+        
+            <div class="sitemap__column">
+                
+                    <div class="sitemap__panel">
+                        <h5 class="sitemap__headline has-subpages"><a class="text-node" href="/mensa-cafes-und-catering">Allgemein</a></h5>
+                        <ul class="navigation-list">
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/kontakt-und-faqs">Kontakt und FAQs</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/mehrweg-to-go">Mehrweg to go</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/bezahlung">Bezahlung</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/unser-anspruch">Unser Anspruch</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/zusatzstoffe">Zusatzstoffe</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/weitere-angebote/werbung">Werbung</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/automaten">Automaten</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/beratung/studieren-mit-kind/kinderteller">Kinderteller</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/weitere-angebote/catering-und-events">Catering und Events</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/allgemein/campus-treff">Campus-Treff</a>
+                                </li>
+                            
+                                <li class="navigation-item"><a class="navigation-link"
+                                                               href="/mensa-cafes-und-catering/weitere-angebote/begleitservice">Begleitservice</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                
+            </div>
+        
+    </div>
+
+    </section>
+</nav>
+
+
+    
+
+<footer class="page-footer">
+    <div class="page-footer__body">
+        <div class="page-footer-contact">
+            <figure class="logo">
+                <a href="/">
+                    <img alt="Logo des Studierendenwerks Dortmund" src="/typo3conf/ext/stwdo_template/Resources/Public/Images/logo-inverse.svg" width="232" height="68" />
+                </a>
+            </figure>
+            
+
+
+
+
+
+        
+    
+
+    
+        <header class="header">
+            
+            
+                
+
+
+<h5 class="headline-5">Studierendenwerk Dortmund AöR</h5>
+
+            
+        </header>
+    
+
+
+
+    <p>Vogelpothsweg 85<br> 44227 Dortmund<br><br> Infopoint: 0231-20649-0<br><a href="#" class=" link-mail" title="E-Mail an Studierendenwerk Dortmund AöR schreiben" data-mailto-token="nbjmup+jogpAtuxep/ef" data-mailto-vector="1">E-Mail schreiben</a></p>
+
+    
+
+
+
+            <nav class="navigation-icons">
+                <ul class="navigation-list">
+                    
+                        <li class="navigation-item"><a class="navigation-link" title="Studierendenwerk Dortmund auf Facebook" target="" href="https://www.facebook.com/Studierendenwerk-Dortmund-389613014736575"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#facebook"></use></svg></a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" title="Studierendenwerk Dortmund auf Instagram" target="" href="https://www.instagram.com/stwdo/"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#instagram"></use></svg></a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" title="Studierendenwerk Dortmund auf Youtube" target="" href="https://www.youtube.com/channel/UCP7Juu8xyziDGN62vBYGZbA?view_as=subscriber"><svg class="icon " role="presentation"><use xlink:href="/typo3conf/ext/stwdo_template/Resources/Public/Icons/symbol/svg/sprite.symbol.svg#youtube"></use></svg></a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+        <div class="page-footer-news">
+            
+
+
+    
+            
+    
+<h5 class="headline-5">Aktuelle News</h5><ol class="news-list-compact"><li class="news-list__item"><time class="subheader-4" itemprop="datePublished" datetime="2023-09-11">
+                11. September 2023
+            </time><a title="DSW-Plakatwettbewerb: Raus aus dem Krisenmodus!" href="/aktuelles/dsw-plakatwettbewerb-raus-aus-dem-krisenmodus"><h6 class="headline-6">DSW-Plakatwettbewerb: Raus aus dem Krisenmodus!</h6></a></li><li class="news-list__item"><time class="subheader-4" itemprop="datePublished" datetime="2023-09-05">
+                05. September 2023
+            </time><a title="Probier‘ mal Mensa: vegane Limonade aus Münster" href="/aktuelles/probier-mal-mensa-vegane-limonade-aus-muenster"><h6 class="headline-6">Probier‘ mal Mensa: vegane Limonade aus Münster</h6></a></li><li class="news-list__item"><time class="subheader-4" itemprop="datePublished" datetime="2023-08-30">
+                30. August 2023
+            </time><a title="Führungswechsel: Neue Leitung in der Kita im Grünen" href="/aktuelles/fuehrungswechsel-neue-leitung-in-der-kita-im-gruenen"><h6 class="headline-6">Führungswechsel: Neue Leitung in der Kita im Grünen</h6></a></li></ol>
+
+
+        
+
+
+
+
+        </div>
+        <div class="page-footer-menu">
+            <h5 class="headline-5">Informationen</h5>
+            <nav class="navigation">
+                <ul class="navigation-list">
+                    
+                        <li class="navigation-item"><a class="navigation-link" href="/ueber-uns/information/impressum" target="">Impressum</a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" href="/barrierefreiheit" target="">Barrierefreiheit</a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" href="/einfache-sprache" target="">Einfache Sprache</a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" href="/hinweisgeberschutz" target="">Hinweisgeberschutz</a></li>
+                    
+                        <li class="navigation-item"><a class="navigation-link" href="/datenschutz" target="">Datenschutz</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </div>
+</footer>
+
+</div>
+
+
+
+
+
+<div id="cookie-modal" class="modal is-bottom is-right">
+    
+
+
+
+
+
+        
+                
+
+                <div id="c743" class="frame-default type-text mt-0 mb-0">
+                    
+    
+
+    
+        <header class="header">
+            
+                
+
+
+<span class="subheader-5">Nutzung von Cookies</span>
+
+            
+            
+                
+
+
+<h5 class="headline-5">Datenschutz ist uns wichtig</h5>
+
+            
+        </header>
+    
+
+
+
+    <p>Deshalb verwenden wir ausschließlich technisch notwendige Cookies.<br><a href="/datenschutz" class=" link-internal">Mehr Informationen</a></p>
+
+                </div>
+            
+    
+
+
+    <a id="cookie-consent" href="/?tx_stwdotemplate_cookienotification%5Baction%5D=consent&amp;tx_stwdotemplate_cookienotification%5Bcontroller%5D=Cookie&amp;tx_stwdotemplate_cookienotification%5Burl%5D=https%3A%2F%2Fwww.stwdo.de%2Fmensa-cafes-und-catering%2Ftu-dortmund%2Fhauptmensa%2F2023-09-25&amp;type=62367935&amp;cHash=ef23f5c82ab31e67136c6581f74a5156" class="button is-light is-fullwidth">
+        schließen
+    </a>
+</div>
+
+<script src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/main.js?1693212316"></script>
+<script src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/navigation/navigation.js?1693212316"></script>
+<script defer="defer" src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/glightbox/glightbox.min.js?1693212316"></script>
+<script src="/typo3conf/ext/stwdo_template/Resources/Public/JavaScript/accordion/accordion.js?1693212316"></script>
+<script async="async" src="/typo3temp/assets/js/cfd16b174d7f7b046e20adbc2e0a1094.js?1690982055"></script>
+<script src="/typo3conf/ext/pa_hours/Resources/Public/JavaScript/canteen-timer.js?1695209069"></script>
+<script defer="defer">
+        document.addEventListener('DOMContentLoaded', function () {
+        const lightbox = GLightbox({selector: '.js-lightbox'});
+        });
+    </script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+    let modal = document.getElementById('cookie-modal')
+    let trigger = document.getElementById('cookie-consent')
+    trigger.addEventListener('click', function (e) {
+    e.preventDefault()
+
+    let request = new XMLHttpRequest();
+    request.open('GET', e.currentTarget.href, true);
+
+    request.onload = function() {
+    if (this.status >= 200 && this.status < 400) {}
+    };
+
+    request.onerror = function() {
+    console.log('cookie consent failed!')
+    };
+
+    modal.parentNode.removeChild(modal)
+
+    request.send();
+    })
+    })
+</script>
+<script>
+            document.addEventListener("DOMContentLoaded", function () {
+            let Plan = function (el) {
+            let _this = this
+            _this.el = el
+            _this.filterInputs = _this.el.querySelectorAll('.radio-input')
+
+
+            for (let i = 0; i < _this.filterInputs.length; i++) {
+            _this.filterInputs[i].addEventListener('change', function (e) {
+            _this.el.submit()
+            })
+            }
+            }
+
+            let plans = document.querySelectorAll('[id^="canteen-plan-"]')
+            for (let i = 0; i < plans.length; i++) {
+            let plan = new Plan(plans[i]);
+            }
+            })
+        </script>
+<script>
+	var _paq = window._paq = window._paq || [];
+  _paq.push(["setDoNotTrack", true]);
+  _paq.push(["disableCookies"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+             
+  function embedTrackingCode() {
+      var u="https://matomo.stwdo.de/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '1']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  }
+
+  if (window.addEventListener) { 
+      window.addEventListener("load", embedTrackingCode, false); 
+  } else if (window.attachEvent) { 
+      window.attachEvent("onload",embedTrackingCode); 
+  } else {
+      embedTrackingCode();
+  }
+  </script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.stwdo.de\/","name":"Startseite"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.stwdo.de\/mensa-cafes-und-catering","name":"Mensa, Caf\u00e9s und Catering"}},{"@type":"ListItem","position":3,"item":{"@id":"https:\/\/www.stwdo.de\/mensa-cafes-und-catering","name":"TU Dortmund"}}]}</script>
+
+</body>
+</html>
