@@ -1,5 +1,5 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-![Test](https://github.com/NilsHeunemann/Mensa_Bot/blob/master/.github/workflows/python-app.yml/badge.svg?event=push)
+![Test](https://github.com/NilsHeunemann/Mensa_Bot/actions/workflows/python-app.yml/badge.svg?event=push)
 
 # Mensa bot
 We all know that feeling of our minds wandering of, contemplating what the gods of food will bring us today. 
